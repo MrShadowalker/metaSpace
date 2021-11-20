@@ -1,0 +1,13 @@
+{
+  "readableLineLength": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "defaultViewMode": "preview",
+  "showLineNumber": true,
+  "emacsyKeys": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./attachments",
+  "promptDelete": false
+}

@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "4dd654320174adab",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0dc5adbfebc2d69",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "模板/日记.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa71673bc8c1c53a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dab47e4e7fb8c426",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7a5709624496195",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a7b449d42cd5691a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b48164cb8041bcfd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a556d555fc09a05a",
+    "type": "split",
+    "children": [
+      {
+        "id": "99baf0ecfea2ac97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "019d76bc8a58e5da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "模板/日记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5dedc39e1a3c6d61",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "模板/日记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0294e7129e3c9246",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8ad2e8e8ff3324fa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "模板/日记.md"
+              }
+            }
+          },
+          {
+            "id": "feeea5e1741a3f31",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a0f6cde572fab9b7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a0dc5adbfebc2d69",
+  "lastOpenFiles": [
+    "模板/日记.md",
+    "日记/2021-11-21.md",
+    "Day Planners/Day Planner-YYYYMMDD.md",
+    "Day Planners/2021-11-21.md"
+  ]
+}
