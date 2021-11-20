@@ -10,6 +10,6 @@
   "listChangedFilesInMessageBody": true,
   "showStatusBar": true,
   "updateSubmodules": false,
-  "gitPath": "https://github.com/MrShadowalker/metaSpace.git",
+  "gitPath": "",
   "customMessageOnAutoBackup": true
 }

@@ -4,7 +4,7 @@
   "dataview",
   "obsidian-kanban",
   "obsidian-mind-map",
-  "obsidian-git",
   "obsidian-checklist-plugin",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "obsidian-git"
 ]
