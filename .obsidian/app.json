@@ -2,7 +2,7 @@
   "readableLineLength": false,
   "foldHeading": true,
   "foldIndent": true,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "showLineNumber": true,
   "emacsyKeys": false,
   "alwaysUpdateLinks": true,
